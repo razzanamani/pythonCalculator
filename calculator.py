@@ -32,6 +32,7 @@ def calculate():
 - for substraction
 * for multiplication
 / for division
+% for modulo
 ''')
 
 	number_1 = int(input('Enter the first number :'))
